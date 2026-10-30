@@ -1,0 +1,15 @@
+{
+  "modid": "temporalstoragefilterfix",
+  "dependencies": {
+    "game": "1.22.7",
+    "storagehub": "2.1.3"
+  },
+  "description": "Corrects item filter classification in Temporal Storage 2.1.3.",
+  "type": "code",
+  "name": "Temporal Storage Filter Fix",
+  "side": "Universal",
+  "version": "1.0.0",
+  "authors": [
+    "Local customization"
+  ]
+}
